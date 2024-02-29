@@ -29,7 +29,7 @@ int main() {
                 printf("Thang 2 nam %d co 29 ngay", year);
             else
                 printf("Thang 2 nam %d co 28 ngay", year);
-            break;
+            break;  
         default:
             printf("Thang khong hop le");
             break;
